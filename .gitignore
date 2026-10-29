@@ -1,0 +1,14 @@
+# Generated files and local environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+node_modules/
+build/
+dist/
+cache/
+tmp/
+*.pt
+*.pth
+*.ckpt
