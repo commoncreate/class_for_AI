@@ -1,0 +1,32 @@
+# Python / IDE
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.idea/
+.vscode/
+.env
+.env.*
+
+# Local course bundle, launchers and machine-specific reports
+/Transformer-pytorch/
+/run_course.py
+/check_environment.py
+/requirements-course.txt
+/course_setup_manifest.json
+/environment_check.json
+
+# Local data, weights, tokenizers and training output
+/runs/
+/data/
+/weights/
+*.pt
+*.pth
+*.safetensors
+*.model
+*.vocab
+*.ckpt
+*.zip
+*.downloading

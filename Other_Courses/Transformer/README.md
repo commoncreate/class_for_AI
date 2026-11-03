@@ -1,4 +1,4 @@
-# Transformer算法原理与实战 — 学习笔记
+# Transformer算法原理与实战 — 笔记与实践
 
 ## 来源与学习状态
 
@@ -14,8 +14,11 @@
 
 - [原始 PDF 笔记](Notes/transformer.pdf)。
 - 原文件名及 PDF 内容完整保留，来源文件保留，归档副本已通过 SHA-256 一致性校验。
-- 本次仅归档笔记，未添加作业、练习、实验或项目。
 - PDF 沿用仓库的 Git LFS 配置。
+
+## 实战项目
+
+[Transformer 英译中练习](Projects/Transformer_MT/README.md)从分词、训练一路跑到翻译和 BLEU 评估。项目带了一个 CPU 小例子，也可以配合本机的课程语料和权重使用。
 
 ## 后续维护
 
